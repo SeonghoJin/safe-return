@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "start": "ts-node index.ts"
+    "start:test": "NODE_ENV=test ts-node index.ts",
+    "start:dev": "NODE_ENV=development ts-node index.ts",
+    "start:prd": "NODE_ENV=production ts-node index.ts"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "typescript": "^4.6.2",
-    "YOUR_LIBRARY": "YOUR_LIBRARY_VERSION"
+    "type-safe-return": "0.0.1"
   }
 }
