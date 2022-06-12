@@ -17,6 +17,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^17.0.42",
     "@typescript-eslint/eslint-plugin": "^5.15.0",
     "@typescript-eslint/parser": "^5.15.0",
     "eslint": "^8.11.0",
@@ -25,8 +26,10 @@
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.4",
+    "jest": "^28.1.1",
     "lint-staged": "^12.3.7",
     "prettier": "^2.6.0",
+    "ts-jest": "^28.0.4",
     "typescript": "^4.6.2"
   }
 }
