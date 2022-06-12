@@ -1,5 +1,7 @@
-.example
+example
 .husky
 ./src
 .eslintrc.js
-
+.prettierc
+tsconfig.json
+README.md
