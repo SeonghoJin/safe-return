@@ -1,7 +1,9 @@
 example
 .husky
-./src
+src
+test
 .eslintrc.js
-.prettierc
+.prettierrc
 tsconfig.json
+jest.config.json
 README.md
