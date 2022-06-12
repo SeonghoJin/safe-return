@@ -1,0 +1,15 @@
+{
+  "name": "YOUR_LIBRARY_EXAMPLE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.2",
+    "YOUR_LIBRARY": "YOUR_LIBRARY_VERSION"
+  }
+}
