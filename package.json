@@ -1,5 +1,5 @@
 {
-  "name": "safe-return",
+  "name": "type-safe-return",
   "version": "0.0.1",
   "description": "YOUR_LIBRARY_DESCRIPTION",
   "main": "dist/index.js",
