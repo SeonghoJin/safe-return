@@ -1,4 +1,4 @@
-# type-safe-return
+# type-safe-return [![install size](https://packagephobia.com/badge?p=type-safe-return)](https://packagephobia.com/result?p=type-safe-return)
 type-safe-return은 환경에 따라 `다른 값을 반환하는 함수`입니다.<br> 애플리케이션은 여러 환경에서 빌드가 됩니다. 보통 3가지 환경(배포, 테스트, 개발)이 존재합니다. <br>
 배포환경에서의 애플리케이션은 `안정적`이고 `약간의 버그를 감수`하더라도 애플리케이션이 돌아가도록 해야하지만 개발환경에서는 다릅니다. <br> 
 개발환경은 빠른 속도로 개발할 필요가 있고 기존에 있는 `에러들을 캐치`해 배포환경에서의 애플리케이션이 정상적으로 작동하도록 해야합니다. <br>
